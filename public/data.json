@@ -479,6 +479,24 @@
 
 
 
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["funt", "lbs"],
+        "to": ["gram", "g"],
+        "val": 453.59237
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["gram", "g"],
+        "to": ["funt", "lbs"],
+        "val": 0.00220462262
+    },
+
+
+
+
 
 
 
