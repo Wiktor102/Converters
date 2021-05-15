@@ -497,11 +497,28 @@
     },
     {
         "category": [2, "prędkość", "velocity"],
+        "system": [2, "inne", "other"],
+        "from": ["metry na sekundę", "m/s"],
+        "to": ["machy", "Ma"],
+        "val": 0.0029386699579770194
+    },
+
+
+    {
+        "category": [2, "prędkość", "velocity"],
         "system": [0, "system metryczny", "metric system"],
         "from": ["kilometry na godzinę", "km/h"],
         "to": ["metry na sekundę", "m/s"],
         "val": 0.2777777777777777777778
     },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [2, "inne", "other"],
+        "from": ["kilometry na godzinę", "km/h"],
+        "to": ["machy", "Ma"],
+        "val": 0.0008162972
+    },
+
 
 
 
@@ -519,6 +536,13 @@
         "to": ["węzły", "kn"],
         "val": 0.868976242
     },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [2, "inne", "other"],
+        "from": ["stopy na sekundę", "m/s"],
+        "to": ["machy", "Ma"],
+        "val": 0.0008957066031914
+    },
 
 
     {
@@ -534,6 +558,13 @@
         "from": ["mile na godzinę", "mi/h"],
         "to": ["węzły", "kn"],
         "val": 0.868976242
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [2, "inne", "other"],
+        "from": ["mile na godzinę", "mi/h"],
+        "to": ["machy", "Ma"],
+        "val": 0.001313703
     },
 
 
@@ -551,6 +582,13 @@
         "to": ["mile na godzinę", "mi/h"],
         "val": 1.15077945
     },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [2, "inne", "other"],
+        "from": ["węzły", "kn"],
+        "to": ["machy", "Ma"],
+        "val": 0.0015528054
+    },
 
 
     {
@@ -567,6 +605,45 @@
         "to": ["mile na godzinę", "mi/h"],
         "val": 0.621371192
     },
+
+
+
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["machy", "Ma"],
+        "to": ["metry na sekunde", "m/s"],
+        "val": 340.2900
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["machy", "Ma"],
+        "to": ["kilometry na godzinę", "km/h"],
+        "val": 1224
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["machy", "Ma"],
+        "to": ["stopy na sekunde", "ft/s"],
+        "val": 1116.437007874
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["machy", "Ma"],
+        "to": ["mile na godzinę", "mi/h"],
+        "val": 760.5583392985
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["machy", "Ma"],
+        "to": ["węzły", "kn"],
+        "val": 661.4714137982
+    },
+
 
 
 
