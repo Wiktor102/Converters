@@ -1,0 +1,633 @@
+[
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry", "mm"],
+        "to": ["centymetry", "cm"],
+        "val": 0.1
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry", "mm"],
+        "to": ["decymetry", "dm"],
+        "val": 0.01
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry", "mm"],
+        "to": ["metry", "m"],
+        "val": 0.001
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry", "mm"],
+        "to": ["kilometry", "km"],
+        "val": 0.000001
+    },
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry", "cm"],
+        "to": ["milimetry", "mm"],
+        "val": 10
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry", "cm"],
+        "to": ["decymetry", "dm"],
+        "val": 0.1
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry", "cm"],
+        "to": ["metry", "m"],
+        "val": 0.01
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry", "cm"],
+        "to": ["kilometry", "km"],
+        "val": 0.00001
+    },
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry", "dm"],
+        "to": ["milimetry", "mm"],
+        "val": 100
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry", "dm"],
+        "to": ["centymetry", "cm"],
+        "val": 10
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry", "dm"],
+        "to": ["metry", "m"],
+        "val": 0.1
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry", "dm"],
+        "to": ["kilometry", "km"],
+        "val": 0.0001
+    },
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m"],
+        "to": ["milimetry", "mm"],
+        "val": 1000
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m"],
+        "to": ["centymetry", "cm"],
+        "val": 100
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m"],
+        "to": ["decymetry", "dm"],
+        "val": 10
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m"],
+        "to": ["kilometry", "km"],
+        "val": 0.001
+    },
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry", "km"],
+        "to": ["milimetry", "mm"],
+        "val": 1000000
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry", "km"],
+        "to": ["centymetry", "cm"],
+        "val": 100000
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry", "km"],
+        "to": ["decymetry", "dm"],
+        "val": 10000
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry", "km"],
+        "to": ["metry", "m"],
+        "val": 1000
+    },
+
+
+
+
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["cal", "in"],
+        "to": ["stopa", "ft"],
+        "val": 0.08333
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["cal", "in"],
+        "to": ["jard", "yd"],
+        "val": 0.02777
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["cal", "in"],
+        "to": ["mila morska", "nmi"],
+        "val": 0.000007291
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["cal", "in"],
+        "to": ["mila", "mi"],
+        "val": 0.00001578282
+    },
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopa", "ft"],
+        "to": ["cal", "in"],
+        "val": 12
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopa", "ft"],
+        "to": ["jard", "yd"],
+        "val": 0.333
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopa", "ft"],
+        "to": ["mila morska", "nmi"],
+        "val": 0.000164579
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopa", "ft"],
+        "to": ["mila", "mi"],
+        "val": 0.000189394
+    },
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["jard", "yd"],
+        "to": ["cal", "in"],
+        "val": 36
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["jard", "yd"],
+        "to": ["stopa", "ft"],
+        "val": 3
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["jard", "yd"],
+        "to": ["mila morska", "nmi"],
+        "val": 0.000493737
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["jard", "yd"],
+        "to": ["mila", "mi"],
+        "val": 0.000568182
+    },
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila morska", "nmi"],
+        "to": ["cal", "in"],
+        "val": 72913.4
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila morska", "nmi"],
+        "to": ["stopa", "ft"],
+        "val": 6076.11549
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila morska", "nmi"],
+        "to": ["jard", "yd"],
+        "val": 2025.37
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila morska", "nmi"],
+        "to": ["mila", "mi"],
+        "val": 1.150779448
+    },
+
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila", "mi"],
+        "to": ["cal", "in"],
+        "val": 63360
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila", "mi"],
+        "to": ["stopa", "ft"],
+        "val": 5280
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila", "mi"],
+        "to": ["jard", "yd"],
+        "val": 1760
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila", "mi"],
+        "to": ["mila morska", "nmi"],
+        "val": 0.868976
+    },
+
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["metr", "m"],
+        "to": ["jard", "yd"],
+        "val": 1.0936133
+    },
+    {
+        "category": [0, "długość / odległość", "length / distance"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["jard", "yd"],
+        "to": ["metry", "m"],
+        "val": 0.9144
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["miligram", "mg"],
+        "to": ["gram", "g"],
+        "val": 0.001
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["miligram", "mg"],
+        "to": ["dekagram", "dag"],
+        "val": 0.0001
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["miligram", "mg"],
+        "to": ["kilogram", "kg"],
+        "val": 0.000001
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["miligram", "mg"],
+        "to": ["tona", "t"],
+        "val": 0.000000001
+    },
+
+
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["gram", "g"],
+        "to": ["miligram", "mg"],
+        "val": 1000
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["gram", "g"],
+        "to": ["dekagram", "dag"],
+        "val": 0.1
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["gram", "g"],
+        "to": ["kilogram", "kg"],
+        "val": 0.001
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["gram", "g"],
+        "to": ["tona", "t"],
+        "val": 0.000001
+    },
+
+
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["dekagram", "dag"],
+        "to": ["miligram", "mg"],
+        "val": 10000
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["dekagram", "dag"],
+        "to": ["gram", "g"],
+        "val": 10
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["dekagram", "dag"],
+        "to": ["kilogram", "kg"],
+        "val": 0.01
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["dekagram", "dag"],
+        "to": ["tona", "t"],
+        "val": 0.00001
+    },
+
+
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilogram", "kg"],
+        "to": ["miligram", "mg"],
+        "val": 1000000
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilogram", "kg"],
+        "to": ["gram", "g"],
+        "val": 1000
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilogram", "kg"],
+        "to": ["dekagram", "dag"],
+        "val": 100
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilogram", "kg"],
+        "to": ["tona", "t"],
+        "val": 0.001
+    },
+
+
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["tona", "t"],
+        "to": ["miligram", "mg"],
+        "val": 1000000000
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["tona", "t"],
+        "to": ["gram", "g"],
+        "val": 1000000
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["tona", "t"],
+        "to": ["dekagram", "dag"],
+        "val": 100000
+    },
+    {
+        "category": [1, "masa", "mass"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["tona", "t"],
+        "to": ["kilogram", "kg"],
+        "val": 1000
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry na sekundę", "m/s"],
+        "to": ["kilometry na godzinę", "km/h"],
+        "val": 3.6
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry na godzinę", "km/h"],
+        "to": ["metry na sekundę", "m/s"],
+        "val": 0.2777777777777777777778
+    },
+
+
+
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopy na sekundę", "ft/s"],
+        "to": ["mile na godzinę", "mi/h"],
+        "val": 0.681818182
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopy na sekundę", "m/s"],
+        "to": ["węzły", "kn"],
+        "val": 0.868976242
+    },
+
+
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mile na godzinę", "mi/h"],
+        "to": ["stopy na sekundę", "ft/s"],
+        "val": 1.46666667
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mile na godzinę", "mi/h"],
+        "to": ["węzły", "kn"],
+        "val": 0.868976242
+    },
+
+
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["węzły", "kn"],
+        "to": ["stopy na sekundę", "ft/s"],
+        "val": 1.68780986
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["węzły", "kn"],
+        "to": ["mile na godzinę", "mi/h"],
+        "val": 1.15077945
+    },
+
+
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["mile na godzinę", "mi/h"],
+        "to": ["kilometry na godzinę", "km/h"],
+        "val": 1.609344
+    },
+    {
+        "category": [2, "prędkość", "velocity"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["kilometry na godzinę", "km/h"],
+        "to": ["mile na godzinę", "mi/h"],
+        "val": 0.621371192
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "category": [3, "temperatura", "temperature"],
+        "system": [2, "inne", "others"],
+        "equation": true,
+        "from": ["stopnie Celcjusza", "℃"],
+        "to": ["stopnie Fahrenheita", "℉"],
+        "val": "(x * 9) / 5 + 32"
+    },
+    {
+        "category": [3, "temperatura", "temperature"],
+        "system": [2, "inne", "others"],
+        "equation": true,
+        "from": ["stopnie Celcjusza", "℃"],
+        "to": ["Kelvin", "K"],
+        "val": "x + 273.15"
+    },
+
+
+    {
+        "category": [3, "temperatura", "temperature"],
+        "system": [2, "inne", "others"],
+        "equation": true,
+        "from": ["stopnie Fahrenheita", "℉"],
+        "to": ["stopnie Celcjusza", "℃"],
+        "val": "(x - 32) * (5/9)"
+    },
+    {
+        "category": [3, "temperatura", "temperature"],
+        "system": [2, "inne", "others"],
+        "equation": true,
+        "from": ["stopnie Fahrenheita", "℉"],
+        "to": ["Kelvin", "K"],
+        "val": "(x - 32) * (5/9) + 273.15"
+    },
+
+
+    {
+        "category": [3, "temperatura", "temperature"],
+        "system": [2, "inne", "others"],
+        "equation": true,
+        "from": ["Kelvin", "K"],
+        "to": ["stopnie Celcjusza", "℃"],
+        "val": "x - 273.15"
+    },
+    {
+        "category": [3, "temperatura", "temperature"],
+        "system": [2, "inne", "others"],
+        "equation": true,
+        "from": ["Kelvin", "K"],
+        "to": ["stopnie Fahrenheita", "℉"],
+        "val": "((x - 273.15) * 9) / 5 + 32"
+    }
+]

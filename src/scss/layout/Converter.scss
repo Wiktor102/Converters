@@ -1,0 +1,87 @@
+@use "../utilities" as *;
+
+.converter {
+    width: fit-content;
+    padding: 1.3rem 1rem;
+    background-color: rgba($neutral-100, .5);
+    border-radius: 15px;
+    font-size: 1.4rem;
+
+    & + & {
+        margin-top: 1.5rem;
+    }
+
+    & > div:first-child {
+        display: flex;
+        margin-bottom: 1rem;
+
+        * + * {
+            margin-left: 1rem;
+        }
+
+        .options {
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            width: stretch;
+            background-color: $primary-700;
+            border-radius: 9999px;
+
+            i {
+                cursor: pointer;
+
+                &:hover {
+                    opacity: .7;
+                }
+            }
+
+            i.delete {
+                color: $accent-400;
+            }
+        }
+    }
+
+    input,
+    select {
+        padding: .7em 1em;
+        font-size: inherit;
+        border: none;
+        border-radius: 9999px;
+    }
+
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      appearance: none;
+    }
+
+    input {
+        appearance: textfield;
+    }
+
+    input[disabled] {
+        background-color: $neutral-100;
+    }
+
+    select {
+        padding: .5em 1em;
+        font-size: 1.2rem;
+    }
+
+    select.category {
+        width: 260px;
+    }
+
+    select + input,
+    input + select {
+        margin-left: 1rem;
+    }
+
+    select.center > option {
+        text-align: center;
+    }
+
+    .swap_units {
+        margin: 0 .6em;
+        cursor: pointer;
+    }
+}
