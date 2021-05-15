@@ -42,8 +42,9 @@ const Converter = ({ units, converters, setSettings, deleteConverter, ...props }
 
 	const round = useCallback(
 		num => {
-			if (precision === "defalut") return num;
-			return parseFloat(num.toFixed(precision));
+			const number = parseFloat(parseFloat(num).toFixed(20));
+			if (precision === "defalut") return number;
+			return parseFloat(number.toFixed(precision));
 		},
 		[precision]
 	);
