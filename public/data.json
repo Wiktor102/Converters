@@ -706,5 +706,276 @@
         "from": ["Kelvin", "K"],
         "to": ["stopnie Fahrenheita", "℉"],
         "val": "((x - 273.15) * 9) / 5 + 32"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry sześćienne", "mm³"],
+        "to": ["centymetry sześćienne", "cm³"],
+        "val": 0.001
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry sześćienne", "mm³"],
+        "to": ["decymetry sześćienne", "dm³"],
+        "val": 0.000001
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry sześćienne", "mm³"],
+        "to": ["metry", "m³"],
+        "val": 0.0000000001
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["milimetry sześćienne", "mm³"],
+        "to": ["kilometry sześćienne", "km³"],
+        "val": 0.000000000000000001
+    },
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry sześćienne", "cm³"],
+        "to": ["milimetry sześćienne", "mm³"],
+        "val": 1000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry sześćienne", "cm³"],
+        "to": ["decymetry sześćienne", "dm³"],
+        "val": 0.001
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry sześćienne", "cm³"],
+        "to": ["metry", "m³"],
+        "val": 0.000001
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["centymetry sześćienne", "cm³"],
+        "to": ["kilometry sześćienne", "km³"],
+        "val": 0.000000000000001
+    },
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry sześćienne", "dm³"],
+        "to": ["milimetry sześćienne", "mm³"],
+        "val": 1000000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry sześćienne", "dm³"],
+        "to": ["centymetry sześćienne", "cm³"],
+        "val": 1000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry sześćienne", "dm³"],
+        "to": ["metry", "m³"],
+        "val": 0.001
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["decymetry sześćienne", "dm³"],
+        "to": ["kilometry sześćienne", "km³"],
+        "val": 0.000000000001
+    },
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m³"],
+        "to": ["milimetry sześćienne", "mm³"],
+        "val": 1000000000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m³"],
+        "to": ["centymetry sześćienne", "cm³"],
+        "val": 1000000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m³"],
+        "to": ["decymetry sześćienne", "dm³"],
+        "val": 1000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["metry", "m³"],
+        "to": ["kilometry sześćienne", "km³"],
+        "val": 0.000000001
+    },
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry sześćienne", "km³"],
+        "to": ["milimetry sześćienne", "mm³"],
+        "val": 1000000000000000000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry sześćienne", "km³"],
+        "to": ["centymetry sześćienne", "cm³"],
+        "val": 1000000000000000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry sześćienne", "km³"],
+        "to": ["decymetry sześćienne", "dm³"],
+        "val": 1000000000000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["kilometry sześćienne", "km³"],
+        "to": ["metry", "m³"],
+        "val": 1000000000
+    },
+
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["cal sześćienny", "in³"],
+        "to": ["stopa sześćienna", "ft³"],
+        "val": 0.000578703704
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["cal sześćienny", "in³"],
+        "to": ["jard sześćienny", "yd³"],
+        "val": 0.00002143347
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["cal sześćienny", "in³"],
+        "to": ["mila sześćienna", "mi³"],
+        "val": 3.9314657292494e-15
+    },
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopa sześćienna", "ft³"],
+        "to": ["cal sześćienny", "in³"],
+        "val": 1728
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopa sześćienna", "ft³"],
+        "to": ["jard sześćienny", "yd³"],
+        "val": 0.03703703703703704
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["stopa sześćienna", "ft³"],
+        "to": ["mila sześćienna", "mi³"],
+        "val": 6.793572780143e-12
+    },
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["jard sześćienny", "yd³"],
+        "to": ["cal sześćienny", "in³"],
+        "val": 46656
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["jard sześćienny", "yd³"],
+        "to": ["stopa sześćienna", "ft³"],
+        "val": 27
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["jard sześćienny", "yd³"],
+        "to": ["mila sześćienna", "mi³"],
+        "val": 1.8342646506386e-10
+    },
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila sześćienna", "mi³"],
+        "to": ["cal sześćienny", "in³"],
+        "val": 254358061040000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila sześćienna", "mi³"],
+        "to": ["stopa sześćienna", "ft³"],
+        "val": 147198000000
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["mila sześćienna", "mi³"],
+        "to": ["jard sześćienny", "yd³"],
+        "val": 5451776000
+    },
+
+
+
+
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [1, "system imperialny", "imperial system"],
+        "from": ["metr sześcienne", "m³"],
+        "to": ["jard sześćienny", "yd³"],
+        "val": 1.30795062
+    },
+    {
+        "category": [4, "objętość", "volume"],
+        "system": [0, "system metryczny", "metric system"],
+        "from": ["jard sześćienny", "yd³"],
+        "to": ["metry sześcienne", "m³"],
+        "val": 0.764554858
     }
 ]
