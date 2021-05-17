@@ -630,7 +630,7 @@
         "category": [2, "prędkość", "velocity"],
         "system": [0, "system metryczny", "metric system"],
         "from": ["machy", "Ma"],
-        "to": ["metry na sekunde", "m/s"],
+        "to": ["metry na sekundę", "m/s"],
         "val": 340.2900
     },
     {
@@ -644,7 +644,7 @@
         "category": [2, "prędkość", "velocity"],
         "system": [1, "system imperialny", "imperial system"],
         "from": ["machy", "Ma"],
-        "to": ["stopy na sekunde", "ft/s"],
+        "to": ["stopy na sekundę", "ft/s"],
         "val": 1116.437007874
     },
     {
@@ -756,7 +756,7 @@
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
         "from": ["milimetry sześćienne", "mm³"],
-        "to": ["metry", "m³"],
+        "to": ["metry sześcienne", "m³"],
         "val": 0.0000000001
     },
     {
@@ -786,7 +786,7 @@
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
         "from": ["centymetry sześćienne", "cm³"],
-        "to": ["metry", "m³"],
+        "to": ["metry sześcienne", "m³"],
         "val": 0.000001
     },
     {
@@ -816,7 +816,7 @@
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
         "from": ["decymetry sześćienne", "dm³"],
-        "to": ["metry", "m³"],
+        "to": ["metry sześcienne", "m³"],
         "val": 0.001
     },
     {
@@ -831,28 +831,28 @@
     {
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
-        "from": ["metry", "m³"],
+        "from": ["metry sześcienne", "m³"],
         "to": ["milimetry sześćienne", "mm³"],
         "val": 1000000000
     },
     {
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
-        "from": ["metry", "m³"],
+        "from": ["metry sześcienne", "m³"],
         "to": ["centymetry sześćienne", "cm³"],
         "val": 1000000
     },
     {
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
-        "from": ["metry", "m³"],
+        "from": ["metry sześcienne", "m³"],
         "to": ["decymetry sześćienne", "dm³"],
         "val": 1000
     },
     {
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
-        "from": ["metry", "m³"],
+        "from": ["metry sześcienne", "m³"],
         "to": ["kilometry sześćienne", "km³"],
         "val": 0.000000001
     },
@@ -882,7 +882,7 @@
         "category": [4, "objętość", "volume"],
         "system": [0, "system metryczny", "metric system"],
         "from": ["kilometry sześćienne", "km³"],
-        "to": ["metry", "m³"],
+        "to": ["metry sześcienne", "m³"],
         "val": 1000000000
     },
 
